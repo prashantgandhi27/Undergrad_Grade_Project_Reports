@@ -2,4 +2,4 @@
 
 **Degree**   : Bachelor of Technology (B.Tech)
 
-**College**  : Institute of Technology, Nirma University
+**College**  : Institute of Technology, Nirma University, Ahmedabad,India
